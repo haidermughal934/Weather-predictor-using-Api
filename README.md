@@ -1,2 +1,21 @@
 # Weather-predictor-using-Api
-A simple yet modern weather forecasting web app built with React and the OpenWeather API. This project demonstrates my ability to work with external APIs, handle asynchronous data fetching, and create a clean, responsive user interface.
+A simple weather app that fetches real-time weather data using the OpenWeather API.
+Users can search for any city and instantly get weather details like temperature, humidity, wind speed, and overall conditions.
+
+>Features:
+*Search weather by city name
+*Shows temperature, humidity, wind speed, and weather conditions
+*Simple and user-friendly interface
+*Works on desktop & mobile
+*Uses live data from OpenWeather API
+
+>Tech Stack
+HTML
+CSS
+JavaScript (Fetch API)
+OpenWeather API
+
+Contact
+Developed by Haider Ali Mughal
+Email: alihaiderbop934@gmail.com
+💬 WhatsApp: Chat with me
