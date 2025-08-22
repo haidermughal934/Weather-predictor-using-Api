@@ -18,4 +18,4 @@ OpenWeather API
 Contact
 Developed by Haider Ali Mughal
 Email: alihaiderbop934@gmail.com
-💬 WhatsApp: Chat with me
+WhatsApp: https://wa.me/+923298633752
